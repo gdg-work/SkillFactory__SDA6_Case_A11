@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/29370057/select-dataframe-rows-between-two-dates
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.between.html?highlight=series%20between#pandas.Series.between
